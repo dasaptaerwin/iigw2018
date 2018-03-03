@@ -6,9 +6,9 @@ This repository is related to the following article:
 - Authors: "Dasapta Erwin Irawan, Arif Susanto, Prihadi Sumintadireja, Budi Brahmantyo, Deny Juanda Puradimaja"
 
 Main references for Pandas programming:
-    - [Codebasics Youtube Channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
-    - [Pandas 0.22.0 documentation](https://pandas.pydata.org/pandas-docs/stable/)
-    - [A little book of Python for multivariate analysis](http://python-for-multivariate-analysis.readthedocs.io/)
-    - [Sebastian Raschka's PCA tutorial](http://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
-    - [Jason Brownlee's MachineLearningMastery Blog](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
-    - [Jupyter Notebook documentation](http://jupyter-notebook.readthedocs.io/)
+- [Codebasics Youtube Channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
+- [Pandas 0.22.0 documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [A little book of Python for multivariate analysis](http://python-for-multivariate-analysis.readthedocs.io/)
+- [Sebastian Raschka's PCA tutorial](http://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
+- [Jason Brownlee's MachineLearningMastery Blog](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
+- [Jupyter Notebook documentation](http://jupyter-notebook.readthedocs.io/)
