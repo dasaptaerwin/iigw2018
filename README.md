@@ -3,5 +3,5 @@ A repository for codes and data for a paper that we're going to send to The 2018
 
 This repository is related to the following article:
 
-Title: "Using hydrochemistry and simple visualization to differentiate groundwater samples". 
-Authors: "Dasapta Erwin Irawan, Arif Susanto, Prihadi Sumintadireja, Budi Brahmantyo, Deny Juanda Puradimaja"
+- Title: "Using hydrochemistry and simple visualization to differentiate groundwater samples". 
+- Authors: "Dasapta Erwin Irawan, Arif Susanto, Prihadi Sumintadireja, Budi Brahmantyo, Deny Juanda Puradimaja"
