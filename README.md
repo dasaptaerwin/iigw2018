@@ -18,12 +18,15 @@ This repository consists of:
 
 # instructions
 
-Please follow these instructions:
+## installation
+Assuming you have Python distribution installed, then please follow these instructions. If you don't have it, the easiest way is to install Anaconda Python distribution. You can find the download page [here](https://www.anaconda.com/download/) and the tutorial [here](https://www.youtube.com/watch?v=YJC6ldI3hWk).
+
+## running the code
 
 1. Download this repository as zip file. See the `Download as zip` button.
 2. Extract it locally in your computer. Name the folder, for example, `iigw2018`
 3. Go to the folder and
-4. Open file `IIGW2018-Copy1.ipynb` file for the text, code, and outputs.
+4. Open file `IIGW2018-Copy1.ipynb` file for the text, code, and outputs. Do this if you have python installed properly in your system. If you don't have it yet, open the html file `IIGW2018-Copy1.html`.
 
 We also made a `reveal.js` based slides. To use it please do the following:
 
