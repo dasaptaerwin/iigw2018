@@ -1,5 +1,9 @@
 # iigw2018
 
+## DOI
+
+[![DOI](https://zenodo.org/badge/123732860.svg)](https://zenodo.org/badge/latestdoi/123732860)
+
 ## about
 
 A repository for codes and data for a paper that we sent to The 2018 Annual ITB International Geothermal Workshop. We apply some PCA and Cluster Analysis to the dataset using Pandas Python. 
